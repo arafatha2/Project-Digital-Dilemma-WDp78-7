@@ -1,0 +1,31 @@
+body{
+  background-color:#958fae;
+}
+h1{
+  font-family:fantasy;
+  border-style: double;
+}
+p{
+  font-family: fantasy;
+  color: #232031;
+  border-style: solid;
+}
+h2{
+  border-style: dashed;
+  font-family: cursive;
+}
+img{
+  border-style: double;
+}
+table{
+  border-color:#5f4e74; 
+}
+td{
+  font-family: cursive;
+  color: #352d4d;
+}
+image{
+  border-style: double;
+  border-color: #5f4e74;
+  border-size: 6px;
+
